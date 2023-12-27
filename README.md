@@ -1,6 +1,6 @@
 # VGG16 Visualizations with PyTorch
 
-![VGG16 Architecture](vgg16_architecture)
+![VGG16 Architecture](/vgg16_architecture.png)
 
 Image source: [ResearchGate](https://www.researchgate.net/figure/A-sample-architecture-of-VGG-16-Image-source-42_fig3_343092954)
 
@@ -10,17 +10,17 @@ This repository contains Python scripts to visualize filters and feature maps fr
 ### Visualization Examples
 
 #### 1. Filter Visualization
-![VGG16 Filters](vgg16_filters.png)
+![VGG16 Filters](/vgg16_filters.png)
 
 The script [`visualize_filters.py`](visualize_filters.py) visualizes the filters learned by a chosen convolutional layer in the VGG16 model.
 
 #### 2. Feature Map Visualization
-![Feature Maps from Each Layer](feature_maps_each_layer.png)
+![Feature Maps from Each Layer](/feature_maps_each_layer.png)
 
 The script [`visualize_feature_maps_each_layer.py`](visualize_feature_maps_each_layer.py) generates feature maps for each layer of the VGG16 model using a sample image.
 
 #### 3. Feature Maps from Different Layers
-![Feature Maps from Different Layers](feature_maps_different_layers.png)
+![Feature Maps from Different Layers](/feature_maps_different_layers.png)
 
 The script [`visualize_feature_maps_different_layers.py`](visualize_feature_maps_different_layers.py) demonstrates feature maps from selected layers of the VGG16 model using a sample image.
 
