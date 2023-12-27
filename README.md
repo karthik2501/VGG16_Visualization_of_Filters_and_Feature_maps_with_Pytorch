@@ -1,7 +1,7 @@
 # VGG16 Visualizations with PyTorch
 
 ![vgg16_architecture](https://github.com/karthik2501/VGG16_Visualizations_with_Pytorch/assets/75373017/b310c216-17fd-4c43-80c8-60135ebcfb91)
-
+![vgg16_architecture](vgg16_architecture.png)
 Image source: [ResearchGate](https://www.researchgate.net/figure/A-sample-architecture-of-VGG-16-Image-source-42_fig3_343092954)
 
 
