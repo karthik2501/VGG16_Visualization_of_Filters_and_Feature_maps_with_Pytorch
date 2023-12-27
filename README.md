@@ -22,7 +22,7 @@ The script [`visualize_feature_maps_each_layer.py`](visualize_feature_maps_each_
 #### 3. Feature Maps from Different Layers
 ![feature_maps_different_layers](https://github.com/karthik2501/VGG16_Visualizations_with_Pytorch/assets/75373017/716136bb-84b9-4b7e-8642-4c35b6018d10)
 
-The script [README](README.md) visualize_feature_maps_different_layers.py demonstrates feature maps from selected layers of the VGG16 model using a sample image.
+The script [visualize_feature_maps_different_layers](visualize_feature_maps_different_layers) visualize_feature_maps_different_layers.py demonstrates feature maps from selected layers of the VGG16 model using a sample image.
 
 ### Usage
 - Clone the repository:
