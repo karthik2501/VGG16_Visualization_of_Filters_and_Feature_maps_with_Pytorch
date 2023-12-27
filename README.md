@@ -27,8 +27,8 @@ The script [`visualize_feature_maps_different_layers.py`](visualize_feature_maps
 ### Usage
 - Clone the repository:
   ```bash
-  git clone https://github.com/karthik2501/VGG16-Visualizations.git
-  cd VGG16-Visualizations
+  git clone https://github.com/karthik2501/VGG16_Visualizations_with_Pytorch.git
+  cd VGG16_Visualizations_with_Pytorch
   
 - Run the scripts using Python:
   ```bash
